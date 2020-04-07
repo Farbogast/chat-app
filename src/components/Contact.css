@@ -36,6 +36,7 @@
   width: 8px;
   height: 8px;
   margin-right: 6px;
+  cursor: pointer;
 }
 
 .Contact .status .status-online {
